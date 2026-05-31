@@ -5,6 +5,7 @@
 ## Digests
 
 <!-- New digests are added below this line -->
+- [2026-05-31](digests/2026-05-31.md) — Anthropic $65B 融资估值$9650亿、Claude Opus 4.8 发布、Dynamic Workflows；OpenAI Frontier Governance Framework、Rosalind Biodefense；xAI Custom Skills
 - [2026-05-25](digests/2026-05-25.md) — Anthropic Glasswing 万级漏洞发现、收购 Stainless、Karpathy 加入；OpenAI 推翻 Erdős 猜想、秘密 IPO 申请；Google I/O 2026 全面发布
 
 ## Coverage Scope
