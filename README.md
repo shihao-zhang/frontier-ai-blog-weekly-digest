@@ -5,6 +5,7 @@
 ## Digests
 
 <!-- New digests are added below this line -->
+- [2026-06-07](digests/2026-06-07.md) — Anthropic IPO S-1 申请、Glasswing 扩至 NATO/ENISA、"When AI Builds Itself"递归自改进警告；OpenAI Codex 全角色扩展、ChatGPT Dreaming/Lockdown Mode；Microsoft Build 2026 发布7款 MAI 自研模型
 - [2026-05-25](digests/2026-05-25.md) — Anthropic Glasswing 万级漏洞发现、收购 Stainless、Karpathy 加入；OpenAI 推翻 Erdős 猜想、秘密 IPO 申请；Google I/O 2026 全面发布
 
 ## Coverage Scope
