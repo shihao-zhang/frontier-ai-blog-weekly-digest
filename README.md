@@ -5,6 +5,7 @@
 ## Digests
 
 <!-- New digests are added below this line -->
+- [2026-06-14](digests/2026-06-14.md) — Anthropic Claude Fable 5 首发 Mythos 级能力、生物 Agent 研究、Managed Agents 定时调度；OpenAI 收购 Ona、S-1 正式提交、Academy 三门新课；Google DiffusionGemma 并行文本扩散开源
 - [2026-05-25](digests/2026-05-25.md) — Anthropic Glasswing 万级漏洞发现、收购 Stainless、Karpathy 加入；OpenAI 推翻 Erdős 猜想、秘密 IPO 申请；Google I/O 2026 全面发布
 
 ## Coverage Scope
