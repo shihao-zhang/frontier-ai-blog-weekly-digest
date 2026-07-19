@@ -5,6 +5,7 @@
 ## Digests
 
 <!-- New digests are added below this line -->
+- [2026-07-19](digests/2026-07-19.md) — Anthropic Agent 对齐失败多实验室研究、价值观跨语言漂移、Claude for Teachers、$100亿 Meta 算力租约谈判、Ode 实施公司；OpenAI GPT-Red 自动化红队、GPT-5.6 Sol 文件删除争议；Gemini 3.5 Pro 三度跳票、Moonshot Kimi K3 开放3万亿参数、HF AI Agent 入侵事件
 - [2026-07-12](digests/2026-07-12.md) — Anthropic J-Space 可解释性突破、$190亿数据中心租约、Claude Code 内置浏览器；OpenAI GPT-5.6 全面开放（Sol/Terra/Luna）、ChatGPT Work、GPT-Live 全双工语音；xAI Grok 4.5、Meta Muse Spark 1.1 付费 API、Mistral 机器人导航模型；ICML 2026 获奖论文
 - [2026-07-05](digests/2026-07-05.md) — Claude Sonnet 5 发布、Fable 5 全球恢复、Claude Science 科学工作台上线；OpenAI GeneBench-Pro 生物基准；Mistral Leanstral 1.5 定理证明、xAI 语音 Agent 全栈、Microsoft Frontier Company $25亿、ICML 2026 前瞻
 - [2026-06-28](digests/2026-06-28.md) — Mythos 5 有限制重新部署、Agent Identity 团队身份管理、阿里巴巴蒸馏攻击指控；OpenAI GPT-5.6 Sol/Terra/Luna 预览、Jalapeno 推理芯片、Daybreak 网络安全扩展；DeepSeek V4-Pro 降价75%、Mistral OCR 4
