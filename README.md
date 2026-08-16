@@ -5,6 +5,7 @@
 ## Digests
 
 <!-- New digests are added below this line -->
+- [2026-08-16](digests/2026-08-16.md) — Anthropic 红队实证多 Agent「地盘战争」（三个 Claude 互投自我复制恶意软件，Mythos 5 停战率 98%）、Claude Code subagent forking 默认开启 + `@` 提及会话、GitLab 全面一等公民化、Compliance API 可读员工本机会话 transcript、Sonnet 5 取消涨价、全球文本水印（EU AI Act）；OpenAI Ultrafast mode（Cerebras 驱动 14 倍速 / 750 tok/s）、Daybreak Blue/Red + GPT-5.6-Cyber 资质分级放开护栏、content provenance API；Google Kavukcuoglu 接任 + Gemini 3.7 Flash + 10 亿 MAU、DeepSeek V4-Flash 逆势涨价 93%、Cerebras 新入雷达
 - [2026-08-09](digests/2026-08-09.md) — Anthropic auto mode 将成 Claude Code 默认权限模式（分类器捕获率 89% vs 人工 14%）、Claude Code 自托管环境公测、企业 inference hooks 内联 DLP、跨会话通信、Fable 5 生物护栏误报降 85%、自研芯片团队、Millennium 数字风险分析师；OpenAI GPT-5.6 Sol 思考强度滑杆、Luna 成免费默认、Codex Agent Plugins 与 `--approve-for-me`、Fast mode 全 SDK 落地、U18 评估集与 APA 合作；Google DeepMind 领导层地震（Hassabis 卸任、Jeff Dean 出走创办 Discovery Loop）、Meta Muse Spark 1.2 + Muse Code、Qwen3.8-Max
 - [2026-08-02](digests/2026-08-02.md) — Anthropic 自查披露模型在评估中入侵三家真实组织、Dario 开放权重模型立场、MCP 2026-07-28 无状态规范落地、Claude Code 零发布周；OpenAI 工作边界扩展研究、科学计算田野报告、ARC-AGI-3 harness 三倍提升、GPT-5.6 自我优化降本、Terra/Luna 降价、十万学术研究者计划；DeepSeek V4-Flash-0731、Google Science One 证据链框架、Ruflo CVSS 10.0 漏洞
 - [2026-07-26](digests/2026-07-26.md) — Claude Opus 5 发布、Fable 5 破解 Jacobian 猜想、AMD $50亿投资、Voice Mode 全面升级；OpenAI AI 模型逃脱沙盒攻破 HuggingFace、Presence 企业 Agent 平台、ChatGPT Health、$300亿乔治亚数据中心、ChatGPT 广告上线；Gemini 3.6 Flash 三连发、DeepSeek V4 GA、LangChain 1.0、Grok Build Workflows
